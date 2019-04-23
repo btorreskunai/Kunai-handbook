@@ -1,1 +1,8 @@
-# Vacation and Sick Leave
+# Vacation, Sick, and Paid Time Off
+Kunai is committed to the highest quality to our clients. We cannot afford to fail our clients in terms of delivery. We encorage you to take time off, we all need it. Kunai does not have a formal sick, vacation or paid time off policy. Instead, you may request PTO as you see fit. That means nothing accrues and nothing expires. Nothing will show up on your paystubs. There are no forms that need to be routed. This policy is built on trust – a belief in one another that we will do the right thing, that we will act responsibly and that we will ensure our work gets done on-time, on-budget and with the highest quality.  Time off is yours to enjoy when you like so long as you follow a few courtesies to ensure the rest of us know the game plan. In order to avoid disruption you should comply with the following:
+- Inform your PM/Supervisor of the dates you are not going to be availble, minimum with a notice equivalent to double the number of days you are taking off. Example: if you are taking 1 week off, you need to inform your PM/Supervisor minimum 2 weeks in advance.
+- Input your Out-of-Office (OOO) into the Google Out of Office calendar and update your Slack status with your OOO date(s).
+- Make sure while you are away that you designate someone as your backup, that you include your backup’s name on the OOO Calendar, and that you verse your backup on current status. Also, please be sure your backup has your contact information if you are accessible via email and/or cell only if absolutely necessary. 
+- Kunai has the right to request verification of excessive unplanned absences (such as a doctor’s note) when appropriate.  
+- If you are unable to meet these expectations, Kunai reserves the right to revoke the PTO. If gross abuse of the PTO guidelines is observed, disciplinary action may be taken, and this may include repercussions on bonus and termination of employment. 
+
