@@ -40,7 +40,7 @@ The majority of policies that support remote work in Kunai apply to everyone at 
 
 If you're planning to work remotely for more than two consecutive days, or you're planning to work remotely from a place that's not your home (i.e. from a partner's home in a different city), you'll need to follow these additional guidelines. Even more than standard remote work, working remotely for an extended period of time is a privilege — it **will** require a large amount of extra work from you to make sure that the team is effective with you working remotely.
 
-Get Approval From your manager
+#### Get Approval From Your Manager
 
 You need your manager's approval before you can work remotely for an extended period of time. This check-in should happen at least two weeks in advance, before you make any travel arrangements, and you should come prepared with a plan for how you will handle the logistics and extra communication work involved in extended remote work. In order for an employee to work remotely for an extended period of time, they should have demonstrated in the past that they are effective working remotely and upholding their quality of work. If that's not the case, the manager can and should veto the option.
 
@@ -60,7 +60,7 @@ It's your responsibility to both make sure you are effective and don't let your 
 
 A non-exhaustive list of things to ensure are in order are:
 
-* You will have a fast, consistent wi-fi connection
+* You will have a fast, consistent Wi-Fi connection
 * You will have a distraction-free environment to work in
 * You will have a quiet, private place to take phone calls and meetings
 * You will be able to work a full workday every day you're working remotely
@@ -75,10 +75,10 @@ This is a time where employees can voice concerns about constraints that are lim
 
 #### Dedicated Retrospectives
 
-Before an employee works remotely for an extended period of time (defined below),  they should schedule a retrospective with their manager for when they get back.
+Before an employee works remotely for an extended period of time (defined above), they should schedule a retrospective with their manager for when they get back.
 
 This meeting is essential for debriefing what did and didn't work in the time they were gone and ensuring lessons learned are rolled back into the way we work at Kunai.
 
 #### Loss of the privilege
 
-Having the flexibility to work remotely is a privilege. If an employee's unable to uphold the responsibilities that go along with that privilege, their manager should work with them through their 1:1s and dedicated retrospectives to resolve the issue. If the employee cannot resolve the issue, their manager can revoke the privilege.
+Having the flexibility to work remotely is a privilege. If an employee is unable to uphold the responsibilities that go along with that privilege, their manager should work with them through their 1:1s and dedicated retrospectives to resolve the issue. If the employee cannot resolve the issue, their manager can revoke the privilege.
