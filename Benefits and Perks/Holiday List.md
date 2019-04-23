@@ -15,7 +15,7 @@
   </tr>
   <tr>
     <td>Memorial Day</td>
-    <td>Last Monday in May</td>
+    <td>May 27</td>
   </tr>
   <tr>
     <td>Independence Day</td>
@@ -23,19 +23,19 @@
   </tr>
   <tr>
     <td>Labor Day</td>
-    <td>First Monday in September</td>
+    <td>September 2</td>
   </tr>
   <tr>
     <td>Columbus Day</td>
-    <td>Second Monday in October</td>
+    <td>October 14</td>
   </tr>
   <tr>
     <td>Veterans Day</td>
     <td>November 11</td>
   </tr>
   <tr>
-    <td>Thanksgiving Day and Friday</td>
-    <td>Fourth Thursday in November and following Friday</td>
+    <td>Thanksgiving Day & Friday</td>
+    <td>November 28 & 29</td>
   </tr>
   <tr>
     <td>Christmas Eve</td>
