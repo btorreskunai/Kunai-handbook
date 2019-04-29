@@ -19,6 +19,6 @@ The nine-month waiting requirement may be waived if the position is being advers
 
 In all cases, the employee’s work record, including but not limited to performance, attendance, efforts to develop skills and related behavior will be used as valid criteria for determining suitability for a position.
 
-## Business Opportunities
+## Outside Business Opportunities
 
 Business opportunities could arise and the ones discovered through your work here belong first to Kunai, except as otherwise agreed to by Kunai. Avoid accepting employment, advisory positions, or board seats with Kunai competitors, clients or business partners when your judgment could be, or could appear to be, influenced in a way that could harm Kunai. Additionally, because board seats come with fiduciary obligations that can make them particularly tricky from a conflict of interest perspective, you should notify your manager or Human Resources at HR@kun.ai before accepting a board seat with any outside company or any other of the aforementioned opportunities. 
