@@ -7,3 +7,5 @@ In this policy, we define immediate family as spouses or domestic partners, all 
 Friends are also an important part of our lives and their loss may hurt as much as losing a relative. Should you lose a close friend, you’re still entitled to the same amount of bereavement leave to attend the funeral and mourn.
 
 If you need to take bereavement leave, please inform management and Human Resources at HR@kun.ai as soon as possible. We do not require proof of death.
+
+All bereavement days are covered under Kunai's unlimited paid time off policy, therefore your regular pay will not be affected.
