@@ -1,4 +1,4 @@
-# Promotions, Transfers & Business Opportunities
+# Promotions, Transfers & Outside Business Opportunities
 
 We support you on your evolutionary path! 
 
