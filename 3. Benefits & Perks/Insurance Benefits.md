@@ -1,4 +1,4 @@
-# Health Insurance
+# Insurance Benefits
 
 Kunai is proud to partner with TriNet to offer as many health insurance options as possible. At Kunai, you will be eligible to enroll for benefits almost immediately and your benefits will become effective on the 1st of the month following your hire date. If you are to leave Kunai, your benefits would end on the last day of the month in which you separate from the company. 
 
