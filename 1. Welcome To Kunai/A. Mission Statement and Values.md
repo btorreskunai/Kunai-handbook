@@ -4,7 +4,7 @@
 
 Kunai delivers advisory and product development solutions to companies in the financial services industry enabling customer relationship growth and improved operational effectiveness. As such, our mission statement is:
 
-INSERT MISSION STATEMENT HERE
+_INSERT MISSION STATEMENT HERE_ 
 
 ## Values
 
