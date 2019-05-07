@@ -1,6 +1,6 @@
 # Referral Bonus
 
-Kunai is growing and order for us to take advantage of the opportunities in front of us we’re going to need more staff.
+Kunai is growing and in order for us to take advantage of the opportunities in front of us we’re going to need more staff.
 
 One of the main reasons we have found ourselves in this exciting position is because of our people - the calibre of talent and their cultural fits within Kunai. In fact, our team’s working style and attitude is what makes us successful and it’s really important that we preserve and cultivate this.
 
