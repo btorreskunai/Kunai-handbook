@@ -15,7 +15,7 @@ Employees will know how Kunai will address problems and complaints and have a re
 
 Finally, the handbook serves as a reference guide to a great deal of information that employees need at work.
 
-## Additional Disclainmers
+## Additional Disclaimers
 
 - Kunai has the right to change the rules without notice.
 - Employment is at will. 
