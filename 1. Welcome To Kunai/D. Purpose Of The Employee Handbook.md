@@ -14,3 +14,9 @@ With our handbook, employees will always know what is expected of them at work. 
 Employees will know how Kunai will address problems and complaints and have a reasonable expectation that employees with similar issues will receive similar treatment. They share a knowledge base with the rest of the employees, too, and know what is important for the business.
 
 Finally, the handbook serves as a reference guide to a great deal of information that employees need at work.
+
+## Additional Disclainmers
+
+Kunai has the right to change the rules without notice.
+Employment is at will. 
+The handbook does not create a contract.
