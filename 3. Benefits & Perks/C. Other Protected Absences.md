@@ -26,7 +26,7 @@ The expectant parent must adhere to the following procedure:
 - Must complete forms or submit a document stating the date of the expected child's arrival and the desired beginning date of leave
 - Must arrange a meeting with Supervisor to agree on ways of keeping in touch (any arrangement should exclude any compulsory maternity or paternity leave)
 
-The employee will be officially notified of the approval of leave request after eligibility under the law has been evaluated. Employees can view more information concerning Paid Family Leave procedures or other queries.
+The employee will be officially notified of the approval of leave request after eligibility under the law has been evaluated. Employees can view more information concerning [Paid Family Leave](https://www.edd.ca.gov/disability/paid_family_leave.htm) procedures or other queries.
 
 ## Bereavement Leave
 
@@ -49,3 +49,5 @@ If you are called to appear in court as described in this policy, you should pre
 All court and jury duty days are covered under Kunai's unlimited paid time off policy, therefore your regular pay will not be affected.
 
 ## Other Leaves of Absence
+
+Any other extended absences will be addressed as they arise. Kunai will comply with all minimum legal requirements.
