@@ -17,6 +17,6 @@ Finally, the handbook serves as a reference guide to a great deal of information
 
 ## Additional Disclainmers
 
-Kunai has the right to change the rules without notice.
-Employment is at will. 
-The handbook does not create a contract.
+- Kunai has the right to change the rules without notice.
+- Employment is at will. 
+- The handbook does not create a contract.
