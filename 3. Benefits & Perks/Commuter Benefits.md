@@ -1,4 +1,4 @@
-# Commuter Benefits.md
+# Commuter Benefits
 
 The commuter benefits program is sponsored by Kunai + TriNet and brought to you by WageWorks. 
 
