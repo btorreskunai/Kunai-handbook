@@ -6,7 +6,9 @@ As much as we try to avoid it, there will be times when an employee either isn't
 
 In our short history we have not had to deal with any severe disciplinary cases, but our employment framework is set in such a way that immediate dismissal could be triggered. We hope to never have to use this.
 
-#Kunai’s annual performance review process has been designed to provide a vital link between the organization’s Business Plan, its vision and guiding principles, and individual staff members. It is also designed to ensure that goals and objectives flow from the top of the organization to the personal objectives of each individual. It is integral to fostering an engaged and productive workforce, recognizing and rewarding good performance, and managing underperformance.
+# Performance Reviews
+
+Kunai’s bi-annual performance review process has been designed to provide a vital link between the organization’s Business Plan, its vision and guiding principles, and individual staff members. It is also designed to ensure that goals and objectives flow from the top of the organization to the personal objectives of each individual. It is integral to fostering an engaged and productive workforce, recognizing and rewarding good performance, and managing underperformance.
 
 This policy applies to all full-time paid employees. The purpose of this policy is to ensure that a consistent approach is followed for conducting annual performance reviews and that job-related skills and knowledge, as well as employee competencies and behaviors, are evaluated and compared against set standards and business objectives.
 
@@ -16,4 +18,4 @@ Managers will have at least two meetings with the employees about their Performa
 
 Periodic assessment and discussion of performance will be carried out throughout the course of the review period between Managers and each of their employees on an “as needed” basis.
 
-Here is the link to the template both managers and employees will need to complete twice a year _________
+Feel free to view the [Performance Review form](https://docs.google.com/forms/d/e/1FAIpQLSfj-WcXV9oAykHSSpPI1DvhqgvuTSD4cm-_iPLobMNDGQe80A/viewform?usp=sf_link)  both managers and employees will need to complete twice a year.
