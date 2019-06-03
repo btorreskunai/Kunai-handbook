@@ -1,6 +1,6 @@
 # Bulletin Board
 
-Kunai uses bulletin boards located in the kitchen to provide information of interest and importance to employees. The bulletin board is primarily to facilitate communication on workplace activities, employee resources, federal, state and local guidance, law and policies, reminders and additional information relevant to the employee’s job. Employees should make an effort to check the physical bulletin board on a regular basis, such as at the beginning of each shift.
+Kunai uses bulletin boards located in the East stairwell to provide information of interest and importance to employees. The bulletin board is primarily to facilitate communication on workplace activities, employee resources, federal, state and local guidance, law and policies, reminders and additional information relevant to the employee’s job. Employees should make an effort to check the physical bulletin board on a regular basis, such as at the beginning of each shift.
 
 Kunai bulletin boards are maintained exclusively by management. No employee shall post information on the bulletin board without first seeking permission and approval from Human Resources at HR@kun.ai. In general, the following types of posting will not be tolerated:
 
