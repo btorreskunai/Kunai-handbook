@@ -18,4 +18,4 @@ By January 1, 2020, an employer having five or more employees shall provide at l
 
 # What should I do if I experience a sexual assault, sexual violence, or other criminal acts?
 
-If you experience sexual harassment that rises to the level of violence or assault, you should immediately contact law enforcement. Please see the California Attorney General’s webpage on Sexual Violence at https://oag.ca.gov/workplace-sexual-harassment for more information about sexual violence and available resources for victims of such violence. Please also raise the issue to HR.
+If you experience sexual harassment that rises to the level of violence or assault, you should immediately contact law enforcement. Please see the [California Attorney General’s webpage on Sexual Violence](https://oag.ca.gov/workplace-sexual-harassment) for more information about sexual violence and available resources for victims of such violence. Please also raise the issue to HR@kun.ai.
