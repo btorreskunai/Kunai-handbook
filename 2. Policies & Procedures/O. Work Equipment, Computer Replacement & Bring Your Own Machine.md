@@ -1,4 +1,4 @@
-# Work Equipment & Bring Your Own Machine (BYOM)
+# Work Equipment, Computer Replacement & Bring Your Own Machine (BYOM)
 
 ## Work Equipment
 
