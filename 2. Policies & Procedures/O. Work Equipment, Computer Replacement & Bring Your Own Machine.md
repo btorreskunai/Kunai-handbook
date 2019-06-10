@@ -8,6 +8,16 @@ The Company reserves the right, at all times and without further notice, to insp
 
 You should also consult our [Employee Privacy Policies](https://github.com/btorreskunai/Kunai-handbook/blob/master/2.%20Policies%20%26%20Procedures/P.%20Employee%20Privacy:%20Workspace%2C%20Email%2C%20Internet.md).
 
+## Computer Replacement Policy
+
+The increasing number of requests for computers has created the necessity for a company-wide policy, which follows:
+
+Kunai recognizes its responsibility to provide our employees with the appropriate tools for them to fulfill their responsibilities. To that end, Kunai will provide an appropriate computer for all permanent emoployees who need one for the performance of their duties. Generally this will be a laptop computer, but in some instances a desktop computer may be more appropriate than a laptop. That request and determination should be made via the employee's manager/PM. 
+
+Employees should not expect Kunai to provide them with more than one computer. 
+
+Employees will be eligible to request new computers four (4) years from their last computer-comissioned date. In certain instances a new computer may be needed sooner. To request a new computer, please complete the [Hardware Request Form](https://docs.google.com/forms/d/e/1FAIpQLScb8OpEhvZxV-cfLf79En2wBniru1IbPRPrX3ZWXM60X3ROeg/viewform?usp=sf_link) for management to review your request. 
+
 ## Bring Your Own Machine (BYOM)
 
 If you decide to use your own machine, there is one major rule you need to follow: 
