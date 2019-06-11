@@ -4,7 +4,9 @@ The welcoming of new employees is a collaborative effort that includes Human Res
 
 ## First Day
 
-HR will meet with the new hire at the start of his or her first day of work to review any applicable new hire information and processes including, but not limited to, reviewing new-hire paperwork, preparing key cards, reviewing benefits and payment information, and reviewing the new hire presentation and employee handbook. Key administrative policies to be covered on the first day include:
+HR will meet with the new hire at the start of his or her first day of work to review any applicable new hire information and processes including, but not limited to, reviewing new-hire paperwork, preparing key cards, reviewing benefits and payment information, and reviewing the new hire presentation and employee handbook. 
+
+**Key administrative policies to be covered by HR on the first day include:**
 
 - Anti-harassment 
 - Pay periods
@@ -13,7 +15,7 @@ HR will meet with the new hire at the start of his or her first day of work to r
 - Emergency evacuation
 - Workplace injuries
 
-Hiring managers should be well-prepared for an employee's first day at work and should welcome new hires with the following:
+**Hiring managers should be well-prepared for an employee's first day at work and should welcome new hires with the following:**
 
 - Workstations set up with appropriate equipment and supplies.
 - Introductions to co-workers and a tour of the facilities.
