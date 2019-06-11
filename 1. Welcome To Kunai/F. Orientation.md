@@ -1,7 +1,5 @@
 # Orientation
 
-Purpose 
-
 The welcoming of new employees is a collaborative effort that includes Human Resources (HR), the hiring manager, and other teams throughout Kunai. Preparing for new hires and providing appropriate guidance and information during the first several days of employment will help ensure success. This short-term orientation process is not a replacement for onboarding of employees through their specific role and department, which is a more detailed and longer process with the team members in their department.
 
 ## First Day
