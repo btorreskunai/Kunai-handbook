@@ -26,4 +26,4 @@ Following IRS recommendations, we will pay the suggested per diem amount for a "
 
 **$71 per day for meals and incidentals.** 
 
-Please use your own money up front and then submit an expense reimbursement request along with all receipts. **Failure to submit both the receipts *and* an expense report will subject your per diem money to regular taxes.**
+Please use your Brex credit card where you will then upload your receipts. If you're not using Brex, please use your own money up front and then submit an expense reimbursement request along with all receipts. **Failure to submit both the receipts *and* an expense report will subject your per diem money to regular taxes.**
