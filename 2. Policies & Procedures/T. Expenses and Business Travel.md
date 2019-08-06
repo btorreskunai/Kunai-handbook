@@ -20,10 +20,10 @@ What is per diem? Well, at its most basic, it’s a Latin phrase meaning, “for
 - Room service
 - Fees and tips for service providers, including baggage handlers and food servers
 
-Note that per diems don’t include transportation to and from each location. Kunai will can either make travel arrangements for our employees, or we will let employees book their own travel and then reimburse them.
+Note that per diems don’t include transportation to and from each location. Kunai will can either make travel arrangements for the employee, or we will let the employee book their own travel and then reimburse them.
 
-According to the IRS recommendations, we will pay the suggested amount for a high-cost area: 
+Following IRS recommendations, we will pay the suggested per diem amount for a "high-cost area": 
 
 **$71 per day for meals and incidentals.** 
 
-Please use your own money up front and then submit an expense reimbursement request along with all receipts. **Failure to submit the receipts and an expense report will subject your per diem money to regular taxes.**
+Please use your own money up front and then submit an expense reimbursement request along with all receipts. **Failure to submit both the receipts *and* an expense report will subject your per diem money to regular taxes.**
