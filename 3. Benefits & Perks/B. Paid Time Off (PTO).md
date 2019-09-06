@@ -1,12 +1,12 @@
 # Paid Time Off (PTO)
 
 ## Policy Brief & Purpose
-Kunai's unlimited PTO policy allows employees to take as much vacation or sick leave as they need. Employees need time to rest and enjoy themselves outside of work - we all need it. Putting a cap on this important time does not help our effort to achieve high levels of employee satisfaction and productivity.
+Kunai's PTO policy allows employees to take as much vacation or sick leave as they need. Employees need time to rest and enjoy themselves outside of work - we all need it. Putting a cap on this important time does not help our effort to achieve high levels of employee satisfaction and productivity.
 
 This policy is based on mutual trust between Kunai and its employees. It gives employees opportunities to work or take time off as they see fit, as long as they continue to fulfill their duties. The company will review this policy annually and address any concerns.
 
 ## Scope
-This policy applies to full-time and part-time employees of the company.
+This policy applies to full-time employees of the company.
 
 ## Policy Elements
 The company does not limit and does not track the amount of PTO employees take. As employees do not accrue time off, Kunai will not compensate unused leave. This policy doesn’t interfere with legally established leaves like maternity and paternity leave. Employees should use at least the legal amount. Any vacation leave they choose to take is separate.
